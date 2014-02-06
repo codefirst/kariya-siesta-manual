@@ -37,8 +37,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Kariya Siesta'
-copyright = u'2010, CodeFirst, All rights reserved'
+project = u'KariyaSiesta'
+copyright = u'2010, codefirst, All rights reserved'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
