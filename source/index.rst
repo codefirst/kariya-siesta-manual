@@ -4,7 +4,7 @@ KariyaSiesta : A flexible Coding Style Checker
 KariyaSiesta とは
 ------------------------------
 
-`KariyaSiesta <http://www.codefirst.org/kariyasiesta/>`_ は、C 言語向けのコーディングチェッカ CX-Checker の fork プロジェクトです。
+`KariyaSiesta <https://www.codefirst.org/kariyasiesta/>`_ は、C 言語向けのコーディングチェッカ CX-Checker の fork プロジェクトです。
 
 CX-Checker の特徴
 ------------------------------
